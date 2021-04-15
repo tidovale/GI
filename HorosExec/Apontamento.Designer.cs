@@ -323,7 +323,7 @@ namespace HorosExec
             // btDesenho
             // 
             this.btDesenho.Enabled = false;
-            this.btDesenho.Location = new System.Drawing.Point(119, 188);
+            this.btDesenho.Location = new System.Drawing.Point(102, 188);
             this.btDesenho.Name = "btDesenho";
             this.btDesenho.Size = new System.Drawing.Size(75, 23);
             this.btDesenho.TabIndex = 3;
