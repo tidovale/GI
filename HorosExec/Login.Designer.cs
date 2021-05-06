@@ -42,6 +42,7 @@ namespace HorosExec
             this.tbUsuario.Name = "tbUsuario";
             this.tbUsuario.Size = new System.Drawing.Size(112, 23);
             this.tbUsuario.TabIndex = 0;
+            this.tbUsuario.Text = "davistome";
             // 
             // tbSenha
             // 
@@ -50,6 +51,7 @@ namespace HorosExec
             this.tbSenha.PasswordChar = '*';
             this.tbSenha.Size = new System.Drawing.Size(112, 23);
             this.tbSenha.TabIndex = 1;
+            this.tbSenha.Text = "dtat0309**";
             // 
             // btLogin
             // 

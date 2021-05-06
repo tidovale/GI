@@ -48,8 +48,11 @@ namespace HorosExec
                         if (permissao == "Administrador")
                         {
                             this.Hide();
-                            CadastrodeOP cadOp = new CadastrodeOP(tbUsuario.Text, permissao);
-                            cadOp.ShowDialog();
+                            CadastrodeOP index = new CadastrodeOP(tbUsuario.Text, permissao);
+                            index.ShowDialog();
+
+                            //CadastrodeOP cadOp = new CadastrodeOP(tbUsuario.Text, permissao);
+                            //cadOp.ShowDialog();
                         }
                         else if (permissao == "Supervisor")
                         {

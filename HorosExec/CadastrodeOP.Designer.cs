@@ -259,7 +259,7 @@ namespace HorosExec
             this.tssl});
             this.ss.Location = new System.Drawing.Point(0, 587);
             this.ss.Name = "ss";
-            this.ss.Size = new System.Drawing.Size(1055, 22);
+            this.ss.Size = new System.Drawing.Size(1479, 22);
             this.ss.TabIndex = 16;
             this.ss.Text = "statusStrip1";
             // 
@@ -278,7 +278,7 @@ namespace HorosExec
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
-            this.menuStrip1.Size = new System.Drawing.Size(1055, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1479, 24);
             this.menuStrip1.TabIndex = 17;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -431,7 +431,7 @@ namespace HorosExec
             this.AccessibleRole = System.Windows.Forms.AccessibleRole.TitleBar;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1055, 609);
+            this.ClientSize = new System.Drawing.Size(1479, 609);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.tbOpObs);
             this.Controls.Add(this.label7);
